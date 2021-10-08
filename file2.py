@@ -16,6 +16,5 @@ elif select == 2:
 elif select == 3:
     print(number_1, "/", number_2, "=",
           divide(number_1, number_2))   
-else:
-        print("Invalid input")
+ 
 
